@@ -1,0 +1,1 @@
+ /home/supermsi/vesper_ui/.dart_tool/flutter_build/5db9bc4034a54e3e1ed3f97caa1d0fd4/native_assets.json: 

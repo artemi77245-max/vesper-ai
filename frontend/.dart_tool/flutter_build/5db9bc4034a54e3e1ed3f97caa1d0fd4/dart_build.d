@@ -1,0 +1,1 @@
+ /home/supermsi/vesper_ui/.dart_tool/flutter_build/5db9bc4034a54e3e1ed3f97caa1d0fd4/dart_build_result.json:  /home/supermsi/flutter/bin/cache/dart-sdk/version /home/supermsi/vesper_ui/.dart_tool/package_config.json /home/supermsi/vesper_ui/pubspec.yaml
